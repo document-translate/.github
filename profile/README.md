@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+各种文档的中文翻译版
+
 <!--
 
 **Here are some ideas to get you started:**

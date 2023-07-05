@@ -1,6 +1,11 @@
-## Hi there 👋
 
-各种文档的中文翻译版
+## 各种文档的中文翻译版
+
+翻译列表：
+- [Volta javascript tools manange](https://github.com/document-translate/volta)
+
+待进行
+- [StencilJS 框架无关的web component开发框架](https://github.com/document-translate/stenciljs)
 
 <!--
 
